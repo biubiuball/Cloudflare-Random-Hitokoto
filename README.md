@@ -16,7 +16,8 @@
 
 1.  Fork 本仓库。
 2.  在 GitHub Settings -> Pages 中启用 Pages，Source 选择 `GitHub Actions`。
-3.  配置 Cloudflare 转换规则（Transform Rules -> Rewrite URL）。
+3.  在github pages上自定义域名(需托管至cf且开启代理)
+4.  配置 Cloudflare 转换规则（Transform Rules -> Rewrite URL）。
 
 ### Cloudflare 规则
 
